@@ -44,7 +44,7 @@ The dataset contains information about Titanic passengers, including:
 
 The Titanic dataset used in this project contains:
 
-* **Rows:** 891
+* **Rows:** 419
 * **Columns:** 12
 
 This dataset provides demographic and travel-related information for passengers aboard the Titanic, which is used to analyze survival patterns and trends.

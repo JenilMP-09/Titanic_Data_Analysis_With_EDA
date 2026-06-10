@@ -173,13 +173,13 @@ Possible enhancements include:
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Author
 
 **Jenil M. Panchal**   
 (Data Science Enthusiast)
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
